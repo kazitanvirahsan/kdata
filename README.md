@@ -1,14 +1,5 @@
 ## Name of the project
-A simple data sanitizer developed in PHP
-
-## What's included
-code snippet for File name sanitization
-
-## What's included
-1. Sanitize Email Address
-2. Sanitize Date & Time
-3. Sanitize Variable
-...
+A standalone library for data validation and sanitization developed in PHP.
 
 
 ## Why we need to sanitize input data & when?
@@ -27,6 +18,11 @@ Data like user's first name and last name, we can can only allow letters range f
 However if we want to remove unwanted characters and tags from incoming data then we need to do Sanitization.
 
 
+
+## Why we need to sanitize input data & when?
+Add more validation filter
+Add sanitization filter
+Add it to packagist
 
 
 
