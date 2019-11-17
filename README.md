@@ -4,7 +4,7 @@ A standalone library for data validation and sanitization developed in PHP.
 
 ## Why we need to sanitize input data & when?
 
-Some theory..
+Some theory..memory refresh..
 
 Meticulous user can embeded js code in input fields where only string is expected. For example, 
 
@@ -19,10 +19,10 @@ However if we want to remove unwanted characters and tags from incoming data the
 
 
 
-## Why we need to sanitize input data & when?
-Add more validation filter
-Add sanitization filter
-Add it to packagist
+## TODO
+Add more validation filters.
+Add sanitization filters.
+Register project with packagist.
 
 
 
